@@ -2,6 +2,9 @@
 
 I'm assuming you're on something like Ubuntu Linux. If not, a lot of this will be similar, but the installation steps would just seem different and you wouldn't be plastering 'sudo' all over the place before things.
 
+Useful:
+https://codeburst.io/introduction-to-redis-node-js-demo-f3326dd43c0f
+
 ## Preparing your Environment:
 
 ### Install Redis
